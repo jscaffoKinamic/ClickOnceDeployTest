@@ -62,22 +62,22 @@
       <dsig:DigestValue>9sV32g4w3SmU3gVMInxVrr4aGUKqSF+u+ZbppJc3Nnc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ClickOnceGithubDeployTest.dll" size="4608">
+  <file name="ClickOnceGithubDeployTest.dll" size="4096">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>MdO2j5fZ5We0HwqPeDvaJxbbdjtMQoNMgnmmWkYbMYs=</dsig:DigestValue>
+      <dsig:DigestValue>DKQEOXpFyIhIgzJR77/FV3/DVJBt3lTk3MoIGVQRhYQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ClickOnceGithubDeployTest.exe" size="148992">
+  <file name="ClickOnceGithubDeployTest.exe" size="148480">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ZJuhdRuY9iDXd71XcQuJMBPrVXCk5EuHd0vXfnox+4s=</dsig:DigestValue>
+      <dsig:DigestValue>8vj/MZ5m4xJUagbCOJuPJpc85m8xbhCagZKbBVbw/lc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ClickOnceGithubDeployTest.runtimeconfig.json" size="253">
